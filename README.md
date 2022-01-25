@@ -1,6 +1,7 @@
 # Welcome to Foundations of Computing for Biologists
 
 - Introductions
+	- Grayce Mores: I am a senior undergraduate Microbiology major, and I'm currently working in Dr. Mark Batzer's lab where I'm researching monkey phylogenetics. Once I graduate I plan to pursue a PhD in Microbiology at Northwestern Med Center in Chicago.
 
 - Syllabus Overview and Questions
 	- Assignments due Mondays each week.
