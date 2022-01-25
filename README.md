@@ -1,7 +1,5 @@
 # Welcome to Foundations of Computing for Biologists
 
-## This is a sub-heading
-
 - Introductions
 
 - Syllabus Overview and Questions
